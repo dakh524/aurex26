@@ -1,0 +1,980 @@
+{
+  "categories": [
+    {
+      "id": "english",
+      "label": "Tamil from English",
+      "label_ta": "ஆங்கிலம் வழியே தமிழ்",
+      "flag": "🇬🇧",
+      "videos": [
+        {
+          "id": "v_en_01",
+          "title": "Spoken Tamil through English (Comprehensive Masterclass)",
+          "channel": "Pebbles live",
+          "youtube_id": "Cqa1bF4Axb0",
+          "playlist_url": null,
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_02",
+          "title": "Learn Tamil Alphabets & Writing",
+          "channel": "Pebbles Tamil",
+          "youtube_id": "hFbciVNxN0w",
+          "playlist_url": null,
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_03",
+          "title": "Learn Tamil Through English - Lesson 1",
+          "channel": "bvenkysubbu",
+          "youtube_id": "LJey_EeGmJg",
+          "playlist_url": null,
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_04",
+          "title": "Day 1 - Spoken Tamil Class",
+          "channel": "Learn Tamil Through English",
+          "youtube_id": "yzmtpqQavDw",
+          "playlist_url": null,
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_05",
+          "title": "Basic Tamil Words & Phrases You Should Know",
+          "channel": "SAYS",
+          "youtube_id": "2n_p-oc6130",
+          "playlist_url": null,
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_06",
+          "title": "Learn Tamil through English - Lesson 1 - Basics",
+          "channel": "desidame4eva",
+          "youtube_id": "3kJu6F10rWs",
+          "playlist_url": null,
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_07",
+          "title": "Learn Tamil Through English Lesson 1",
+          "channel": "Seed Succeed Bhanumathy K",
+          "youtube_id": "uL2M-NHR86Y",
+          "playlist_url": null,
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_08",
+          "title": "Learn Tamil Through English (Complete Series)",
+          "channel": "bvenkysubbu",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLrTKm3P15gEb6ub8cXMdcPQ4f2S09Dkjz",
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_09",
+          "title": "Learn Tamil",
+          "channel": "Learn Multi Language's",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLUNVMmqNe04GT3pbrbVjXFO0i1VPll7IH",
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_10",
+          "title": "Learn and Speak Tamil - Like a Native",
+          "channel": "LEARN TAMIL",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLYJDQJC4v7I863Mytgujv8SP0DcOKuGpK",
+          "language": "Tamil from English"
+        },
+        {
+          "id": "v_en_11",
+          "title": "Learn Tamil through English Basics",
+          "channel": "desidame4eva",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PL9D3498A645BFFC3B",
+          "language": "Tamil from English"
+        }
+      ],
+      "books": [
+        {
+          "id": "b_en_01",
+          "title": "Learning Tamil by Yourself",
+          "author": "Jeyapandian Kottalam",
+          "language": "Tamil from English",
+          "link": "https://docs.google.com/file/d/0BzwpbxABzaV5MHotLVVKal9xYUE/edit?pli=1"
+        },
+        {
+          "id": "b_en_02",
+          "title": "Learning Tamil by Yourself (Direct PDF Mirror)",
+          "author": "Jeyapandian Kottalam",
+          "language": "Tamil from English",
+          "link": "https://archive.org/download/learning-tamil-by-yourself/LearningTamilByYourself.pdf"
+        },
+        {
+          "id": "b_en_03",
+          "title": "Colloquial Tamil: The Complete Course for Beginners",
+          "author": "R. E. Asher and E. Annamalai",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/colloquialtamilt0000ashe"
+        },
+        {
+          "id": "b_en_04",
+          "title": "Colloquial Tamil (Complete Course PDF)",
+          "author": "R. E. Asher and E. Annamalai",
+          "language": "Tamil from English",
+          "link": "https://archive.org/download/ColloquialTamil_201512/Colloquial%20Tamil.pdf"
+        },
+        {
+          "id": "b_en_05",
+          "title": "An Intensive Course in Tamil",
+          "author": "S. Rajaram (CIIL)",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZIdl0Uy.TVA_BOK_0006925"
+        },
+        {
+          "id": "b_en_06",
+          "title": "Tamil Self-Taught (In Roman Characters with Phonetic Pronunciation)",
+          "author": "Don M. de Z. Wickremasinghe",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/cu31924068360191"
+        },
+        {
+          "id": "b_en_07",
+          "title": "Tamil Grammar Self-Taught in Tamil and Roman Characters",
+          "author": "Don M. de Z. Wickremasinghe",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/tamilgrammarself00wickrich"
+        },
+        {
+          "id": "b_en_08",
+          "title": "A First Book of Tamil",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/firstbookoftamil00poperich"
+        },
+        {
+          "id": "b_en_09",
+          "title": "A Handbook of the Ordinary Dialect of the Tamil Language",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/handbookofordina00popeiala"
+        },
+        {
+          "id": "b_en_10",
+          "title": "A Larger Grammar of the Tamil Language in Both Its Dialects",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/largergrammaroft00popeuoft"
+        },
+        {
+          "id": "b_en_11",
+          "title": "A Progressive Grammar of Common Tamil",
+          "author": "Albert Henry Arden",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/progressivegramm00ardeiala"
+        },
+        {
+          "id": "b_en_12",
+          "title": "A Companion Reader to Arden's Progressive Tamil Grammar",
+          "author": "Albert Henry Arden",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/companionreadert00ardeiala"
+        },
+        {
+          "id": "b_en_13",
+          "title": "Learn Tamil in 30 Days Through English",
+          "author": "N. Jegtheesh",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/learntamilin30days0000unse"
+        },
+        {
+          "id": "b_en_14",
+          "title": "Tamil Language Course",
+          "author": "United States Foreign Service Institute (FSI)",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/tamillanguagecou00unit"
+        },
+        {
+          "id": "b_en_15",
+          "title": "Spoken Tamil: Introduction to Spoken Tamil",
+          "author": "Harold F. Schiffman",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/ERIC_ED184335"
+        },
+        {
+          "id": "b_en_16",
+          "title": "A Grammar of Spoken Tamil",
+          "author": "Harold F. Schiffman",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/grammarofspokent0000schi"
+        },
+        {
+          "id": "b_en_17",
+          "title": "A Reference Grammar of Spoken Tamil",
+          "author": "Harold F. Schiffman",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/referencegrammar0000schi"
+        },
+        {
+          "id": "b_en_18",
+          "title": "An Introduction to Spoken Tamil",
+          "author": "M. Shanmugam Pillai",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.ministry.08187"
+        },
+        {
+          "id": "b_en_19",
+          "title": "Spoken Tamil (Part 1)",
+          "author": "M. Shanmugam Pillai",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.language.2514"
+        },
+        {
+          "id": "b_en_20",
+          "title": "Spoken Tamil (Part 2)",
+          "author": "M. Shanmugam Pillai",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.bengal.10689.13019"
+        },
+        {
+          "id": "b_en_21",
+          "title": "A Tamil Reading Book: Easy Stories on Various Subjects",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/atamilreadingbo00popegoog"
+        },
+        {
+          "id": "b_en_22",
+          "title": "Tamil Prose Reader",
+          "author": "P. Jotimuttu",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/guidefortamilpro00joti"
+        },
+        {
+          "id": "b_en_23",
+          "title": "English-Tamil Dictionary",
+          "author": "V. Visvanatha Pillai",
+          "language": "Tamil to/from English",
+          "link": "https://archive.org/details/englishtamildict00visviala"
+        },
+        {
+          "id": "b_en_24",
+          "title": "Dictionary, English and Tamil",
+          "author": "Johann Philip Fabricius",
+          "language": "Tamil to/from English",
+          "link": "https://archive.org/details/dictionaryenglis00fabruoft"
+        },
+        {
+          "id": "b_en_25",
+          "title": "A Dictionary of Contemporary Tamil",
+          "author": "Cre-A (S. Ramakrishnan et al.)",
+          "language": "Tamil with English equivalents",
+          "link": "https://archive.org/details/dli.language.0194"
+        },
+        {
+          "id": "b_en_26",
+          "title": "English and Tamil Vocabulary (Manual of Conversational Phrases)",
+          "author": "P. Percival",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/englishtamilvoca00percuoft"
+        },
+        {
+          "id": "b_en_27",
+          "title": "Practical Tamil-English Dictionary",
+          "author": "S. Bhavanandam Pillai",
+          "language": "Tamil to/from English",
+          "link": "https://archive.org/details/dli.bengal.10689.10271"
+        },
+        {
+          "id": "b_en_28",
+          "title": "A Manual of the Tamil Language (Grammar and Exercises)",
+          "author": "J. B. Trincal",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/manualoftamillan00trin"
+        },
+        {
+          "id": "b_en_29",
+          "title": "Intermediate Tamil Reader",
+          "author": "Central Institute of Indian Languages (CIIL)",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.language.2511"
+        },
+        {
+          "id": "b_en_30",
+          "title": "Advanced Tamil Reader",
+          "author": "S. Rajaram",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.language.2512"
+        },
+        {
+          "id": "b_en_31",
+          "title": "Tamil Alphabet Learning & Writing Guide",
+          "author": "CIIL / Open Education Archive",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/TamilAlphabetLearning"
+        },
+        {
+          "id": "b_en_32",
+          "title": "Tamil Primer for Beginners",
+          "author": "Christian Vernacular Education Society",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.ministry.08186"
+        },
+        {
+          "id": "b_en_33",
+          "title": "Tamil Language in Context (Curriculum & Audio-Text Guide)",
+          "author": "Vasu Renganathan",
+          "language": "Tamil from English",
+          "link": "https://ccat.sas.upenn.edu/tamil/"
+        },
+        {
+          "id": "b_en_34",
+          "title": "Basic Tamil Lessons & Digital Textbook Portal",
+          "author": "Tamil Virtual Academy (Govt. of Tamil Nadu)",
+          "language": "Tamil from English",
+          "link": "https://www.tamilvu.org/"
+        },
+        {
+          "id": "b_en_35",
+          "title": "Tamil Conversational Reader",
+          "author": "N. Kumaraswami Raja and K. Doraswamy",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.language.2513"
+        },
+        {
+          "id": "b_en_36",
+          "title": "Tamil Phonetic Reader",
+          "author": "S. Thananjayarajasingham",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.language.2515"
+        },
+        {
+          "id": "b_en_37",
+          "title": "A Brief Sketch of the Tamil Language",
+          "author": "R. Anderson",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/briefsketchofta00anderich"
+        },
+        {
+          "id": "b_en_38",
+          "title": "A Grammar of the Tamil Language, with Appendix",
+          "author": "C. T. E. Rhenius",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/grammaroftamilla00rhen"
+        },
+        {
+          "id": "b_en_39",
+          "title": "A Handbook of the Tamil Language: A Tamil Prose Reader",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.jZY9lup2kZl6TuXGlZQdjZM9jupy.TVA_BOK_0009058"
+        },
+        {
+          "id": "b_en_40",
+          "title": "Tamil Grammar Self-Taught (DLI Edition)",
+          "author": "Don M. de Z. Wickremasinghe",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.ministry.23632"
+        },
+        {
+          "id": "b_en_41",
+          "title": "Tamil-English, English-Tamil Dictionary & Phrasebook",
+          "author": "Clement J. Victor",
+          "language": "Tamil to/from English",
+          "link": "https://archive.org/details/tamilenglishengl0000vict"
+        },
+        {
+          "id": "b_en_42",
+          "title": "Collins English-Tamil Dictionary Plus Grammar",
+          "author": "Collins Dictionaries",
+          "language": "Tamil to/from English",
+          "link": "https://archive.org/details/collinsenglishta0000coll"
+        },
+        {
+          "id": "b_en_43",
+          "title": "A Grammar of the High Dialect of the Tamil Language (Shen-Tamil)",
+          "author": "Constantius Joseph Beschi (translated by B. G. Babington)",
+          "language": "Tamil from English / Latin",
+          "link": "https://archive.org/details/agrammarhighdia00babigoog"
+        },
+        {
+          "id": "b_en_44",
+          "title": "A Grammar of the Common Dialect of the Tamil Language (Kodun-Tamil)",
+          "author": "Constantius Joseph Beschi (translated by George William Mahon)",
+          "language": "Tamil from English / Latin",
+          "link": "https://archive.org/details/grammarofcommond00besc"
+        },
+        {
+          "id": "b_en_45",
+          "title": "A Tamil Handbook: Full Introduction to the Common Dialect (Second Edition)",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/tamilhandbookorf00poperich"
+        },
+        {
+          "id": "b_en_46",
+          "title": "A Compendious Tamil-English Dictionary",
+          "author": "G. U. Pope",
+          "language": "Tamil to English",
+          "link": "https://archive.org/details/compendioustamil00poperich"
+        },
+        {
+          "id": "b_en_47",
+          "title": "An English-Tamil Dictionary",
+          "author": "G. U. Pope",
+          "language": "English to Tamil",
+          "link": "https://archive.org/details/englishtamildict00poperich"
+        },
+        {
+          "id": "b_en_48",
+          "title": "First Lessons in Tamil",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/firstlessonsinta00poperich"
+        },
+        {
+          "id": "b_en_49",
+          "title": "A Tamil Poetical Anthology with Grammatical Notes and Vocabulary",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/atamilpoeticala00popegoog"
+        },
+        {
+          "id": "b_en_50",
+          "title": "The \"Sacred\" Kurral of Tiruvalluva Nayanar (With Introduction, Grammar & Lexicon)",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/sacredkurralofti00tiruiala"
+        },
+        {
+          "id": "b_en_51",
+          "title": "The Naladiyar, or Four Hundred Quatrains in Tamil (With Introduction, Translation & Lexicon)",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/nladiyrorfourhu00popegoog"
+        },
+        {
+          "id": "b_en_52",
+          "title": "The Tiruvacagam: Sacred Utterances of the Tamil Poet Manikka-Vacagar",
+          "author": "G. U. Pope",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/tiruvacagamorsac00maniuoft"
+        },
+        {
+          "id": "b_en_53",
+          "title": "A Comprehensive Tamil and English Dictionary of High and Low Tamil",
+          "author": "Miron Winslow",
+          "language": "Tamil to English",
+          "link": "https://archive.org/details/acomprehensivet01winsgoog"
+        },
+        {
+          "id": "b_en_54",
+          "title": "Tamil Lexicon (Reprint - Full Work)",
+          "author": "University of Madras",
+          "language": "Tamil to/from English",
+          "link": "https://archive.org/details/TamilLexiconVolume1To6"
+        },
+        {
+          "id": "b_en_55",
+          "title": "A Manual Dictionary of the Tamil Language (Jaffna Tamil Dictionary)",
+          "author": "Levi Spaulding",
+          "language": "Tamil with English definitions",
+          "link": "https://archive.org/details/manualdictionary00spauuoft"
+        },
+        {
+          "id": "b_en_56",
+          "title": "An English and Tamil Dictionary",
+          "author": "P. Percival",
+          "language": "English to Tamil",
+          "link": "https://archive.org/details/anenglishtamild00percgoog"
+        },
+        {
+          "id": "b_en_57",
+          "title": "Tamil Proverbs with Their English Translation",
+          "author": "P. Percival",
+          "language": "Tamil to English",
+          "link": "https://archive.org/details/tamilproverbswit00percrich"
+        },
+        {
+          "id": "b_en_58",
+          "title": "A Dictionary of the English and Malabar Languages",
+          "author": "Johann Philipp Fabricius and Johann Christian Breithaupt",
+          "language": "Tamil to/from English",
+          "link": "https://archive.org/details/adictionaryengl00breigoog"
+        },
+        {
+          "id": "b_en_59",
+          "title": "A Malabar and English Dictionary (Second Edition)",
+          "author": "Johann Philipp Fabricius",
+          "language": "Tamil to English",
+          "link": "https://archive.org/details/amalabarandengl00breigoog"
+        },
+        {
+          "id": "b_en_60",
+          "title": "A Dictionary of the Tamil and English Languages (Revised Edition)",
+          "author": "Johann Philipp Fabricius",
+          "language": "Tamil to English",
+          "link": "https://archive.org/details/adictionarytami00fabrgoog"
+        },
+        {
+          "id": "b_en_61",
+          "title": "A Dictionary of the English and Tamil Languages",
+          "author": "Johann Philipp Fabricius",
+          "language": "English to Tamil",
+          "link": "https://archive.org/details/adictionaryengl01fabrgoog"
+        },
+        {
+          "id": "b_en_62",
+          "title": "A Dictionary, Tamil and English (Part 1)",
+          "author": "J. P. Rottler",
+          "language": "Tamil to English",
+          "link": "https://archive.org/details/adictionarytami00rottgoog"
+        },
+        {
+          "id": "b_en_63",
+          "title": "A Manual of the Spoken Dialect of Tamil",
+          "author": "S. Sivashanmugam",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.bengal.10689.13020"
+        },
+        {
+          "id": "b_en_64",
+          "title": "Conversational Tamil",
+          "author": "N. Kumaraswami Raja",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.bengal.10689.13021"
+        },
+        {
+          "id": "b_en_65",
+          "title": "Tamil for Beginners: Conversational Exercises",
+          "author": "K. Paramasivam and James Lindholm",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.language.2516"
+        },
+        {
+          "id": "b_en_66",
+          "title": "A Basic Tamil Grammar",
+          "author": "K. Paramasivam",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.language.2517"
+        },
+        {
+          "id": "b_en_67",
+          "title": "Introduction to Modern Literary Tamil",
+          "author": "James Lindholm and K. Paramasivam",
+          "language": "Tamil from English",
+          "link": "https://archive.org/details/dli.language.2518"
+        },
+        {
+          "id": "b_en_68",
+          "title": "English-Tamil Dictionary of Technical Terms",
+          "author": "Tamil University, Thanjavur",
+          "language": "Tamil to/from English",
+          "link": "https://archive.org/details/dli.language.2519"
+        },
+        {
+          "id": "b_en_69",
+          "title": "The Tamil Language (Historical Linguistics and Structural Grammar)",
+          "author": "M. S. Andronov",
+          "language": "Tamil from Russian / English",
+          "link": "https://archive.org/details/dli.language.2520"
+        },
+        {
+          "id": "b_en_70",
+          "title": "A Dravidian Etymological Dictionary",
+          "author": "T. Burrow and M. B. Emeneau",
+          "language": "Tamil compared with English & Dravidian",
+          "link": "https://archive.org/details/dravidianetymolo00burr"
+        },
+        {
+          "id": "b_en_71",
+          "title": "Tamil First Reader (Elementary Graded Reader)",
+          "author": "Christian Vernacular Education Society for India",
+          "language": "Tamil with English notes",
+          "link": "https://archive.org/details/tamilfirstreader00unse"
+        },
+        {
+          "id": "b_en_72",
+          "title": "First Tamil Reader for Schools",
+          "author": "P. S. R. Casie Chitty",
+          "language": "Tamil with English equivalents",
+          "link": "https://archive.org/details/dli.ministry.08188"
+        }
+      ]
+    },
+    {
+      "id": "hindi",
+      "label": "Tamil from Hindi",
+      "label_ta": "ஹிந்தி வழியே தமிழ்",
+      "flag": "🇮🇳",
+      "videos": [
+        {
+          "id": "v_hi_01",
+          "title": "Learn Tamil Through Hindi: Easy Trick",
+          "channel": "தமிழ் वाला",
+          "youtube_id": "d0ARrj7YnDc",
+          "playlist_url": null,
+          "language": "Tamil from Hindi"
+        },
+        {
+          "id": "v_hi_02",
+          "title": "Learn Hindi to Tamil - Day 01",
+          "channel": "Mukesh sah",
+          "youtube_id": "maxBWVe6Wy4",
+          "playlist_url": null,
+          "language": "Tamil from Hindi"
+        },
+        {
+          "id": "v_hi_03",
+          "title": "Learn Tamil Through Hindi: Easiest Method",
+          "channel": "தமிழ் वाला",
+          "youtube_id": "s2ngFGYYZik",
+          "playlist_url": null,
+          "language": "Tamil from Hindi"
+        },
+        {
+          "id": "v_hi_04",
+          "title": "Tamil Writing & Script: A to Z (वर्ण से वाक्य तक)",
+          "channel": "Dr. Deepa Gupta",
+          "youtube_id": "Pcey_FFHh3w",
+          "playlist_url": null,
+          "language": "Tamil from Hindi"
+        },
+        {
+          "id": "v_hi_05",
+          "title": "Tamil Learning for Beginners Through Hindi",
+          "channel": "LearnTamilHindi",
+          "youtube_id": "kS_nNx2BtAg",
+          "playlist_url": null,
+          "language": "Tamil from Hindi"
+        },
+        {
+          "id": "v_hi_06",
+          "title": "Tamil Language Learning Full Course",
+          "channel": "Mukesh sah",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PL_xY7jxzaj55MDqtdY4tCrzHmVPC_sj2Z",
+          "language": "Tamil from Hindi"
+        },
+        {
+          "id": "v_hi_07",
+          "title": "Spoken Hindi & Tamil Course in 30 Days",
+          "channel": "EFICAZ ACADEMY",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLIpQipc5KQLg38QUUswbEsOUFnj7nJNe_",
+          "language": "Tamil from Hindi"
+        },
+        {
+          "id": "v_hi_08",
+          "title": "Spoken Hindi & Tamil Bilingual Academy Series",
+          "channel": "AIT Language Academy",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLCPEXJlbmz1O7MDXmbLKv6sLvMOhgPsX_",
+          "language": "Tamil from Hindi"
+        }
+      ],
+      "books": [
+        {
+          "id": "b_hi_01",
+          "title": "Learn Tamil Through Hindi (तमिल सीखें हिंदी के माध्यम से)",
+          "author": "R. S. Srivastav / Diamond Books",
+          "language": "Tamil from Hindi",
+          "link": "https://archive.org/details/learntamilthroughhindi"
+        },
+        {
+          "id": "b_hi_02",
+          "title": "Tamil Swayam Shikshak (तमिल स्वयं शिक्षक)",
+          "author": "P. K. Sundaram",
+          "language": "Tamil from Hindi",
+          "link": "https://archive.org/details/dli.language.0345"
+        },
+        {
+          "id": "b_hi_03",
+          "title": "Tamil-Hindi Common Vocabulary",
+          "author": "Central Hindi Directorate (CHD)",
+          "language": "Tamil to/from Hindi",
+          "link": "https://archive.org/details/dli.language.2608"
+        },
+        {
+          "id": "b_hi_04",
+          "title": "Hindi-Tamil Vyavaharika Laghu Kosh (हिन्दी-तमिल व्यावहारिक लघु कोश)",
+          "author": "Central Hindi Directorate (CHD)",
+          "language": "Tamil to/from Hindi",
+          "link": "https://archive.org/details/dli.language.0240"
+        }
+      ]
+    },
+    {
+      "id": "telugu",
+      "label": "Tamil from Telugu",
+      "label_ta": "தெலுங்கு வழியே தமிழ்",
+      "flag": "🏛️",
+      "videos": [
+        {
+          "id": "v_te_01",
+          "title": "Tamil Sentences for Beginners Through Telugu",
+          "channel": "Trishika translations",
+          "youtube_id": "wDl2fPuFAXg",
+          "playlist_url": null,
+          "language": "Tamil from Telugu"
+        },
+        {
+          "id": "v_te_02",
+          "title": "Learn Verbs in Telugu & Tamil",
+          "channel": "Language Connects",
+          "youtube_id": "ULKoqZFSK1w",
+          "playlist_url": null,
+          "language": "Tamil from Telugu"
+        },
+        {
+          "id": "v_te_03",
+          "title": "Learn Tamil Through Telugu Quick Basics",
+          "channel": "kaluva videos",
+          "youtube_id": "IdqEGrZ2nck",
+          "playlist_url": null,
+          "language": "Tamil from Telugu"
+        },
+        {
+          "id": "v_te_04",
+          "title": "Learn Tamil through Telugu Complete Series",
+          "channel": "Manthena Dileep sai",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PL4oSwl99i3dZSIRoJ6_hwgJrSUR7mZgHw",
+          "language": "Tamil from Telugu"
+        },
+        {
+          "id": "v_te_05",
+          "title": "Tamil Alphabets through Telugu",
+          "channel": "Surya TALKER",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLEhnFkIq_bYQwp0yhrxet_C6cvoLFXhtF",
+          "language": "Tamil from Telugu"
+        },
+        {
+          "id": "v_te_06",
+          "title": "Complete Learn Tamil Through Telugu Playlist",
+          "channel": "YARRAMREDDY VENKATESH",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLMd734fkQbbCN5CPmS6FAjPVZPRUW91ed",
+          "language": "Tamil from Telugu"
+        },
+        {
+          "id": "v_te_07",
+          "title": "Learn Telugu Through Tamil Series",
+          "channel": "RAMESHBABU YOKENDRAN",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PL8B06TUojftHJSvei6Zb339bq4l7n5Nv0",
+          "language": "Tamil from Telugu"
+        }
+      ],
+      "books": [
+        {
+          "id": "b_te_01",
+          "title": "Learn Tamil Through Telugu",
+          "author": "K. S. R. Sharma",
+          "language": "Tamil from Telugu",
+          "link": "https://archive.org/details/learntamilthroughtelugu00unse"
+        },
+        {
+          "id": "b_te_02",
+          "title": "Learn Tamil Through Telugu (సులభంగా తమిళం నెర్చుకొండి)",
+          "author": "Balaji Publications",
+          "language": "Tamil from Telugu",
+          "link": "https://archive.org/details/learntamilthroughtelugu"
+        },
+        {
+          "id": "b_te_03",
+          "title": "Tamil-Telugu Common Vocabulary",
+          "author": "Central Institute of Indian Languages (CIIL)",
+          "language": "Tamil to/from Telugu",
+          "link": "https://archive.org/details/dli.language.2609"
+        }
+      ]
+    },
+    {
+      "id": "malayalam",
+      "label": "Tamil from Malayalam",
+      "label_ta": "மலையாளம் வழியே தமிழ்",
+      "flag": "🌴",
+      "videos": [
+        {
+          "id": "v_ml_01",
+          "title": "Spoken Tamil Through Malayalam - Lesson 1",
+          "channel": "KVR INSTITUTE",
+          "youtube_id": "XhfvLrs6H50",
+          "playlist_url": null,
+          "language": "Tamil from Malayalam"
+        },
+        {
+          "id": "v_ml_02",
+          "title": "Learning Tamil Through Malayalam: Easy Grammar",
+          "channel": "LEARN TAMIL",
+          "youtube_id": "-PKqQZeOXxw",
+          "playlist_url": null,
+          "language": "Tamil from Malayalam"
+        },
+        {
+          "id": "v_ml_03",
+          "title": "Tamil Alphabet & Consonants (തമിഴ് അക്ഷരങ്ങൾ)",
+          "channel": "Master GK",
+          "youtube_id": "oGlEPxYoBUA",
+          "playlist_url": null,
+          "language": "Tamil from Malayalam"
+        },
+        {
+          "id": "v_ml_04",
+          "title": "Question Words in Tamil and Their Usage",
+          "channel": "Tamil with Language Lab",
+          "youtube_id": "RAv1-Ajej0g",
+          "playlist_url": null,
+          "language": "Tamil from Malayalam"
+        },
+        {
+          "id": "v_ml_05",
+          "title": "Spoken Tamil Through Malayalam Full Course",
+          "channel": "KVR INSTITUTE",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLV0Fnu2XQhq9a459YQM-Tpl3PRtHPMTCX",
+          "language": "Tamil from Malayalam"
+        },
+        {
+          "id": "v_ml_06",
+          "title": "Spoken Malayalam & Tamil Course",
+          "channel": "KVR INSTITUTE",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PL4GT7yUHKxbPs3b0wuMAYP5w7PHyL-n2Y",
+          "language": "Tamil from Malayalam"
+        },
+        {
+          "id": "v_ml_07",
+          "title": "Malayalam and Tamil 30-Day Language Challenge",
+          "channel": "Sabna's World",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLq79B6joRQ4qB6Ai1gAEVFiXmJ70wVSTP",
+          "language": "Tamil from Malayalam"
+        }
+      ],
+      "books": [
+        {
+          "id": "b_ml_01",
+          "title": "Learn Tamil Through Malayalam",
+          "author": "B. Radhakrishna",
+          "language": "Tamil from Malayalam",
+          "link": "https://archive.org/details/dli.language.2611"
+        }
+      ]
+    },
+    {
+      "id": "kannada",
+      "label": "Tamil from Kannada",
+      "label_ta": "கன்னடம் வழியே தமிழ்",
+      "flag": "🏰",
+      "videos": [
+        {
+          "id": "v_kn_01",
+          "title": "Learn Tamil Thru Kannada",
+          "channel": "Ravi Krishnappa",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLdGTkMLQU06FI4mlXtH4nAlRxdG5rks3T",
+          "language": "Tamil from Kannada"
+        },
+        {
+          "id": "v_kn_02",
+          "title": "Spoken Kannada Through Tamil Course",
+          "channel": "Gokila Agurchand",
+          "youtube_id": null,
+          "playlist_url": "https://www.youtube.com/playlist?list=PLtuhAc6yK0jFuSgkeBLS6Jbu6q__xJYfv",
+          "language": "Tamil from Kannada"
+        }
+      ],
+      "books": [
+        {
+          "id": "b_kn_01",
+          "title": "Learn Tamil Through Kannada",
+          "author": "Southern Languages Book Trust / CIIL",
+          "language": "Tamil from Kannada",
+          "link": "https://archive.org/details/dli.language.2610"
+        }
+      ]
+    },
+    {
+      "id": "multilingual",
+      "label": "French, German & Comparative Dravidian",
+      "label_ta": "பிரெஞ்சு, ஜெர்மன் & பிற மொழிகள்",
+      "flag": "🌍",
+      "videos": [],
+      "books": [
+        {
+          "id": "b_multi_01",
+          "title": "Grammaire Française-Tamoule (French-Tamil Grammar)",
+          "author": "Louis Savinien Dupuis",
+          "language": "Tamil from French",
+          "link": "https://archive.org/details/grammairefrana00dupuiala"
+        },
+        {
+          "id": "b_multi_02",
+          "title": "Manuel de la Conversation Français-Tamoul",
+          "author": "Missionnaires Apostoliques",
+          "language": "Tamil from French",
+          "link": "https://archive.org/details/manueldelaconver00missiala"
+        },
+        {
+          "id": "b_multi_03",
+          "title": "Dictionnaire Tamoul-Français (Tamil-French Dictionary)",
+          "author": "Louis Savinien Dupuis & Louis-Marie Mousset",
+          "language": "Tamil to/from French",
+          "link": "https://archive.org/details/dictionnairetamo01mousuoft"
+        },
+        {
+          "id": "b_multi_04",
+          "title": "Dictionnaire Français-Tamoul (French-Tamil Dictionary)",
+          "author": "Louis-Marie Mousset & Louis Savinien Dupuis",
+          "language": "Tamil to/from French",
+          "link": "https://archive.org/details/dictionnairefran00mousuoft"
+        },
+        {
+          "id": "b_multi_05",
+          "title": "Grammatica Damulica (Latin-Tamil Grammar)",
+          "author": "Bartholomaeus Ziegenbalg",
+          "language": "Tamil from Latin",
+          "link": "https://archive.org/details/grammaticadamuli00zieg"
+        },
+        {
+          "id": "b_multi_06",
+          "title": "Tamil-German Dictionary & Vocabulary",
+          "author": "Christoph Theodosius Walther",
+          "language": "Tamil to/from German",
+          "link": "https://archive.org/details/dli.language.2612"
+        },
+        {
+          "id": "b_multi_07",
+          "title": "Wörterbuch Deutsch–Tamil (German-Tamil Dictionary)",
+          "author": "Horst Schweia and S. Rajaram",
+          "language": "Tamil to/from German",
+          "link": "https://archive.org/details/worterbuchdeutsc00schw"
+        },
+        {
+          "id": "b_multi_08",
+          "title": "Common Man's Multilingual Dictionary: English-Telugu-Kannada-Tulu-Tamil-Malayalam",
+          "author": "Dravidian University",
+          "language": "Multilingual comparative Dravidian vocabulary",
+          "link": "https://archive.org/details/commonmansmultil00kupp"
+        },
+        {
+          "id": "b_multi_09",
+          "title": "Common Man's Multilingual Dictionary: Tulu-Kannada-Telugu-Tamil-Malayalam-English",
+          "author": "Dravidian University",
+          "language": "Multilingual comparative Dravidian vocabulary",
+          "link": "https://archive.org/details/commonmansmultil00laks"
+        },
+        {
+          "id": "b_multi_10",
+          "title": "Clavis Humaniorum Litterarum Sublimioris Tamulici Idiomatis",
+          "author": "Constantius Joseph Beschi",
+          "language": "Tamil from Latin",
+          "link": "https://archive.org/details/clavishumanioru00bescgoog"
+        }
+      ]
+    }
+  ]
+}

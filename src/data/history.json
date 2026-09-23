@@ -1,0 +1,34 @@
+{
+  "periods": [
+    {
+      "id": "sangam",
+      "name": "Sangam Period",
+      "years": "c. 300 BCE – 300 CE",
+      "overview": "The classical period of ancient Tamil literature...",
+      "keyFigures": ["Tolkappiyar", "Avvaiyar"],
+      "keyPlaces": ["Madurai", "Korkai", "Poompuhar"]
+    },
+    {
+      "id": "chola",
+      "name": "Imperial Cholas",
+      "years": "c. 848 CE – 1279 CE",
+      "overview": "A maritime empire known for massive temples and naval expeditions...",
+      "keyFigures": ["Raraja Chola I", "Rajendra Chola I"],
+      "keyPlaces": ["Thanjavur", "Gangaikonda Cholapuram"]
+    }
+  ],
+  "locations": [
+    {
+      "id": "madurai",
+      "name": "Madurai",
+      "coordinates": [9.9252, 78.1198],
+      "description": "The cultural capital of Tamil Nadu, home to the Sangam academies."
+    },
+    {
+      "id": "thanjavur",
+      "name": "Thanjavur",
+      "coordinates": [10.7870, 79.1378],
+      "description": "The capital of the Cholas, famous for the Brihadeeswara Temple."
+    }
+  ]
+}

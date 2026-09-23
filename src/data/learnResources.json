@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": "tamil-epigraphy",
+      "title": "Tamil Epigraphy & Script",
+      "items": [
+        {
+          "id": "epig-1",
+          "title": "Introduction to Tamil-Brahmi & Inscriptions",
+          "description": "Learn the origins of ancient Tamil scripts on rock cut caves and temple walls.",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Tamil-Brahmi",
+          "thumbnailUrl": "/placeholder-thumb.jpg"
+        },
+        {
+          "id": "epig-2",
+          "title": "Reading Chola Era Copper Plates & Inscriptions",
+          "description": "An overview of royal decrees, land grants, and temple records from the 10th century.",
+          "type": "video",
+          "url": "https://youtube.com",
+          "thumbnailUrl": "/placeholder-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tamil-heritage",
+      "title": "Historical Tamil Monuments & Archaeology",
+      "items": [
+        {
+          "id": "herit-1",
+          "title": "Kudavolai Village Governance System",
+          "description": "Historical record of self-governance described in Uttaramerur inscriptions.",
+          "type": "article",
+          "url": "https://en.wikipedia.org/wiki/Uttaramerur",
+          "thumbnailUrl": "/placeholder-thumb.jpg"
+        }
+      ]
+    }
+  ]
+}

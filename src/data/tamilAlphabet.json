@@ -1,0 +1,2181 @@
+[
+  {
+    "id": "u1",
+    "letter": "அ",
+    "type": "uyir",
+    "transliteration": "a",
+    "example": "அம்மா (Amma - Mother)"
+  },
+  {
+    "id": "u2",
+    "letter": "ஆ",
+    "type": "uyir",
+    "transliteration": "aa",
+    "example": "ஆடு (Aadu - Goat)"
+  },
+  {
+    "id": "u3",
+    "letter": "இ",
+    "type": "uyir",
+    "transliteration": "i",
+    "example": "இலை (Ilai - Leaf)"
+  },
+  {
+    "id": "u4",
+    "letter": "ஈ",
+    "type": "uyir",
+    "transliteration": "ee",
+    "example": "ஈட்டி (Eetti - Spear)"
+  },
+  {
+    "id": "u5",
+    "letter": "உ",
+    "type": "uyir",
+    "transliteration": "u",
+    "example": "உரல் (Ural - Mortar)"
+  },
+  {
+    "id": "u6",
+    "letter": "ஊ",
+    "type": "uyir",
+    "transliteration": "oo",
+    "example": "ஊஞ்சல் (Oonjal - Swing)"
+  },
+  {
+    "id": "u7",
+    "letter": "எ",
+    "type": "uyir",
+    "transliteration": "e",
+    "example": "எலி (Eli - Rat)"
+  },
+  {
+    "id": "u8",
+    "letter": "ஏ",
+    "type": "uyir",
+    "transliteration": "ae",
+    "example": "ஏணி (Aeni - Ladder)"
+  },
+  {
+    "id": "u9",
+    "letter": "ஐ",
+    "type": "uyir",
+    "transliteration": "ai",
+    "example": "ஐவர் (Aivar - Five people)"
+  },
+  {
+    "id": "u10",
+    "letter": "ஒ",
+    "type": "uyir",
+    "transliteration": "o",
+    "example": "ஒட்டகம் (Ottagam - Camel)"
+  },
+  {
+    "id": "u11",
+    "letter": "ஓ",
+    "type": "uyir",
+    "transliteration": "oo",
+    "example": "ஓடம் (Odam - Boat)"
+  },
+  {
+    "id": "u12",
+    "letter": "ஔ",
+    "type": "uyir",
+    "transliteration": "au",
+    "example": "ஔவையார் (Avvaiyar - Poet)"
+  },
+  {
+    "id": "ayutham1",
+    "letter": "ஃ",
+    "type": "ayutham",
+    "transliteration": "ak",
+    "example": "எஃகு (Ehgu - Steel)"
+  },
+  {
+    "id": "m1",
+    "letter": "க்",
+    "type": "mei",
+    "series": "க வர்க்கம்",
+    "transliteration": "k",
+    "example": "கொக்கு (Kokku - Crane)"
+  },
+  {
+    "id": "m2",
+    "letter": "ங்",
+    "type": "mei",
+    "series": "ங வர்க்கம்",
+    "transliteration": "ng",
+    "example": "சிங்கம் (Singam - Lion)"
+  },
+  {
+    "id": "m3",
+    "letter": "ச்",
+    "type": "mei",
+    "series": "ச வர்க்கம்",
+    "transliteration": "ch",
+    "example": "பச்சை (Pachai - Green)"
+  },
+  {
+    "id": "m4",
+    "letter": "ஞ்",
+    "type": "mei",
+    "series": "ஞ வர்க்கம்",
+    "transliteration": "nj",
+    "example": "மஞ்சள் (Manjal - Turmeric)"
+  },
+  {
+    "id": "m5",
+    "letter": "ட்",
+    "type": "mei",
+    "series": "ட வர்க்கம்",
+    "transliteration": "t",
+    "example": "பட்டம் (Pattam - Kite)"
+  },
+  {
+    "id": "m6",
+    "letter": "ண்",
+    "type": "mei",
+    "series": "ண வர்க்கம்",
+    "transliteration": "n",
+    "example": "கண் (Kann - Eye)"
+  },
+  {
+    "id": "m7",
+    "letter": "த்",
+    "type": "mei",
+    "series": "த வர்க்கம்",
+    "transliteration": "th",
+    "example": "புத்தகம் (Puthagam - Book)"
+  },
+  {
+    "id": "m8",
+    "letter": "ந்",
+    "type": "mei",
+    "series": "ந வர்க்கம்",
+    "transliteration": "n",
+    "example": "நண்டு (Nandu - Crab)"
+  },
+  {
+    "id": "m9",
+    "letter": "ப்",
+    "type": "mei",
+    "series": "ப வர்க்கம்",
+    "transliteration": "p",
+    "example": "கப்பல் (Kappal - Ship)"
+  },
+  {
+    "id": "m10",
+    "letter": "ம்",
+    "type": "mei",
+    "series": "ம வர்க்கம்",
+    "transliteration": "m",
+    "example": "மரம் (Maram - Tree)"
+  },
+  {
+    "id": "m11",
+    "letter": "ய்",
+    "type": "mei",
+    "series": "ய வர்க்கம்",
+    "transliteration": "y",
+    "example": "நாய் (Naay - Dog)"
+  },
+  {
+    "id": "m12",
+    "letter": "ர்",
+    "type": "mei",
+    "series": "ர வர்க்கம்",
+    "transliteration": "r",
+    "example": "தேர் (Thaer - Chariot)"
+  },
+  {
+    "id": "m13",
+    "letter": "ல்",
+    "type": "mei",
+    "series": "ல வர்க்கம்",
+    "transliteration": "l",
+    "example": "பால் (Paal - Milk)"
+  },
+  {
+    "id": "m14",
+    "letter": "வ்",
+    "type": "mei",
+    "series": "வ வர்க்கம்",
+    "transliteration": "v",
+    "example": "செவ்வாய் (Sevvai - Tuesday)"
+  },
+  {
+    "id": "m15",
+    "letter": "ழ்",
+    "type": "mei",
+    "series": "ழ வர்க்கம்",
+    "transliteration": "zha",
+    "example": "தமிழ் (Tamil - Language)"
+  },
+  {
+    "id": "m16",
+    "letter": "ள்",
+    "type": "mei",
+    "series": "ள வர்க்கம்",
+    "transliteration": "lh",
+    "example": "வாள் (Vaal - Sword)"
+  },
+  {
+    "id": "m17",
+    "letter": "ற்",
+    "type": "mei",
+    "series": "ற வர்க்கம்",
+    "transliteration": "rr",
+    "example": "காற்று (Kaatru - Wind)"
+  },
+  {
+    "id": "m18",
+    "letter": "ன்",
+    "type": "mei",
+    "series": "ன வர்க்கம்",
+    "transliteration": "nn",
+    "example": "மீன் (Meen - Fish)"
+  },
+  {
+    "id": "um1",
+    "letter": "க",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "ka",
+    "example": "க - க வர்க்கம் (ka)"
+  },
+  {
+    "id": "um2",
+    "letter": "கா",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "kaa",
+    "example": "கா - க வர்க்கம் (kaa)"
+  },
+  {
+    "id": "um3",
+    "letter": "கி",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "ki",
+    "example": "கி - க வர்க்கம் (ki)"
+  },
+  {
+    "id": "um4",
+    "letter": "கீ",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "kee",
+    "example": "கீ - க வர்க்கம் (kee)"
+  },
+  {
+    "id": "um5",
+    "letter": "கு",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "ku",
+    "example": "கு - க வர்க்கம் (ku)"
+  },
+  {
+    "id": "um6",
+    "letter": "கூ",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "koo",
+    "example": "கூ - க வர்க்கம் (koo)"
+  },
+  {
+    "id": "um7",
+    "letter": "கெ",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "ke",
+    "example": "கெ - க வர்க்கம் (ke)"
+  },
+  {
+    "id": "um8",
+    "letter": "கே",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "kae",
+    "example": "கே - க வர்க்கம் (kae)"
+  },
+  {
+    "id": "um9",
+    "letter": "கை",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "kai",
+    "example": "கை - க வர்க்கம் (kai)"
+  },
+  {
+    "id": "um10",
+    "letter": "கொ",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "ko",
+    "example": "கொ - க வர்க்கம் (ko)"
+  },
+  {
+    "id": "um11",
+    "letter": "கோ",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "koo",
+    "example": "கோ - க வர்க்கம் (koo)"
+  },
+  {
+    "id": "um12",
+    "letter": "கௌ",
+    "type": "uyirmei",
+    "series": "க வர்க்கம்",
+    "baseConsonant": "க்",
+    "transliteration": "kau",
+    "example": "கௌ - க வர்க்கம் (kau)"
+  },
+  {
+    "id": "um13",
+    "letter": "ங",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "nga",
+    "example": "ங - ங வர்க்கம் (nga)"
+  },
+  {
+    "id": "um14",
+    "letter": "ஙா",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngaa",
+    "example": "ஙா - ங வர்க்கம் (ngaa)"
+  },
+  {
+    "id": "um15",
+    "letter": "ஙி",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngi",
+    "example": "ஙி - ங வர்க்கம் (ngi)"
+  },
+  {
+    "id": "um16",
+    "letter": "ஙீ",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngee",
+    "example": "ஙீ - ங வர்க்கம் (ngee)"
+  },
+  {
+    "id": "um17",
+    "letter": "ஙு",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngu",
+    "example": "ஙு - ங வர்க்கம் (ngu)"
+  },
+  {
+    "id": "um18",
+    "letter": "ஙூ",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngoo",
+    "example": "ஙூ - ங வர்க்கம் (ngoo)"
+  },
+  {
+    "id": "um19",
+    "letter": "ஙெ",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "nge",
+    "example": "ஙெ - ங வர்க்கம் (nge)"
+  },
+  {
+    "id": "um20",
+    "letter": "ஙே",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngae",
+    "example": "ஙே - ங வர்க்கம் (ngae)"
+  },
+  {
+    "id": "um21",
+    "letter": "ஙை",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngai",
+    "example": "ஙை - ங வர்க்கம் (ngai)"
+  },
+  {
+    "id": "um22",
+    "letter": "ஙொ",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngo",
+    "example": "ஙொ - ங வர்க்கம் (ngo)"
+  },
+  {
+    "id": "um23",
+    "letter": "ஙோ",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngoo",
+    "example": "ஙோ - ங வர்க்கம் (ngoo)"
+  },
+  {
+    "id": "um24",
+    "letter": "ஙௌ",
+    "type": "uyirmei",
+    "series": "ங வர்க்கம்",
+    "baseConsonant": "ங்",
+    "transliteration": "ngau",
+    "example": "ஙௌ - ங வர்க்கம் (ngau)"
+  },
+  {
+    "id": "um25",
+    "letter": "ச",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "cha",
+    "example": "ச - ச வர்க்கம் (cha)"
+  },
+  {
+    "id": "um26",
+    "letter": "சா",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "chaa",
+    "example": "சா - ச வர்க்கம் (chaa)"
+  },
+  {
+    "id": "um27",
+    "letter": "சி",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "chi",
+    "example": "சி - ச வர்க்கம் (chi)"
+  },
+  {
+    "id": "um28",
+    "letter": "சீ",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "chee",
+    "example": "சீ - ச வர்க்கம் (chee)"
+  },
+  {
+    "id": "um29",
+    "letter": "சு",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "chu",
+    "example": "சு - ச வர்க்கம் (chu)"
+  },
+  {
+    "id": "um30",
+    "letter": "சூ",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "choo",
+    "example": "சூ - ச வர்க்கம் (choo)"
+  },
+  {
+    "id": "um31",
+    "letter": "செ",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "che",
+    "example": "செ - ச வர்க்கம் (che)"
+  },
+  {
+    "id": "um32",
+    "letter": "சே",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "chae",
+    "example": "சே - ச வர்க்கம் (chae)"
+  },
+  {
+    "id": "um33",
+    "letter": "சை",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "chai",
+    "example": "சை - ச வர்க்கம் (chai)"
+  },
+  {
+    "id": "um34",
+    "letter": "சொ",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "cho",
+    "example": "சொ - ச வர்க்கம் (cho)"
+  },
+  {
+    "id": "um35",
+    "letter": "சோ",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "choo",
+    "example": "சோ - ச வர்க்கம் (choo)"
+  },
+  {
+    "id": "um36",
+    "letter": "சௌ",
+    "type": "uyirmei",
+    "series": "ச வர்க்கம்",
+    "baseConsonant": "ச்",
+    "transliteration": "chau",
+    "example": "சௌ - ச வர்க்கம் (chau)"
+  },
+  {
+    "id": "um37",
+    "letter": "ஞ",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "nja",
+    "example": "ஞ - ஞ வர்க்கம் (nja)"
+  },
+  {
+    "id": "um38",
+    "letter": "ஞா",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "njaa",
+    "example": "ஞா - ஞ வர்க்கம் (njaa)"
+  },
+  {
+    "id": "um39",
+    "letter": "ஞி",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "nji",
+    "example": "ஞி - ஞ வர்க்கம் (nji)"
+  },
+  {
+    "id": "um40",
+    "letter": "ஞீ",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "njee",
+    "example": "ஞீ - ஞ வர்க்கம் (njee)"
+  },
+  {
+    "id": "um41",
+    "letter": "ஞு",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "nju",
+    "example": "ஞு - ஞ வர்க்கம் (nju)"
+  },
+  {
+    "id": "um42",
+    "letter": "ஞூ",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "njoo",
+    "example": "ஞூ - ஞ வர்க்கம் (njoo)"
+  },
+  {
+    "id": "um43",
+    "letter": "ஞெ",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "nje",
+    "example": "ஞெ - ஞ வர்க்கம் (nje)"
+  },
+  {
+    "id": "um44",
+    "letter": "ஞே",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "njae",
+    "example": "ஞே - ஞ வர்க்கம் (njae)"
+  },
+  {
+    "id": "um45",
+    "letter": "ஞை",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "njai",
+    "example": "ஞை - ஞ வர்க்கம் (njai)"
+  },
+  {
+    "id": "um46",
+    "letter": "ஞொ",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "njo",
+    "example": "ஞொ - ஞ வர்க்கம் (njo)"
+  },
+  {
+    "id": "um47",
+    "letter": "ஞோ",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "njoo",
+    "example": "ஞோ - ஞ வர்க்கம் (njoo)"
+  },
+  {
+    "id": "um48",
+    "letter": "ஞௌ",
+    "type": "uyirmei",
+    "series": "ஞ வர்க்கம்",
+    "baseConsonant": "ஞ்",
+    "transliteration": "njau",
+    "example": "ஞௌ - ஞ வர்க்கம் (njau)"
+  },
+  {
+    "id": "um49",
+    "letter": "ட",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "ta",
+    "example": "ட - ட வர்க்கம் (ta)"
+  },
+  {
+    "id": "um50",
+    "letter": "டா",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "taa",
+    "example": "டா - ட வர்க்கம் (taa)"
+  },
+  {
+    "id": "um51",
+    "letter": "டி",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "ti",
+    "example": "டி - ட வர்க்கம் (ti)"
+  },
+  {
+    "id": "um52",
+    "letter": "டீ",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "tee",
+    "example": "டீ - ட வர்க்கம் (tee)"
+  },
+  {
+    "id": "um53",
+    "letter": "டு",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "tu",
+    "example": "டு - ட வர்க்கம் (tu)"
+  },
+  {
+    "id": "um54",
+    "letter": "டூ",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "too",
+    "example": "டூ - ட வர்க்கம் (too)"
+  },
+  {
+    "id": "um55",
+    "letter": "டெ",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "te",
+    "example": "டெ - ட வர்க்கம் (te)"
+  },
+  {
+    "id": "um56",
+    "letter": "டே",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "tae",
+    "example": "டே - ட வர்க்கம் (tae)"
+  },
+  {
+    "id": "um57",
+    "letter": "டை",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "tai",
+    "example": "டை - ட வர்க்கம் (tai)"
+  },
+  {
+    "id": "um58",
+    "letter": "டொ",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "to",
+    "example": "டொ - ட வர்க்கம் (to)"
+  },
+  {
+    "id": "um59",
+    "letter": "டோ",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "too",
+    "example": "டோ - ட வர்க்கம் (too)"
+  },
+  {
+    "id": "um60",
+    "letter": "டௌ",
+    "type": "uyirmei",
+    "series": "ட வர்க்கம்",
+    "baseConsonant": "ட்",
+    "transliteration": "tau",
+    "example": "டௌ - ட வர்க்கம் (tau)"
+  },
+  {
+    "id": "um61",
+    "letter": "ண",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "na",
+    "example": "ண - ண வர்க்கம் (na)"
+  },
+  {
+    "id": "um62",
+    "letter": "ணா",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "naa",
+    "example": "ணா - ண வர்க்கம் (naa)"
+  },
+  {
+    "id": "um63",
+    "letter": "ணி",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "ni",
+    "example": "ணி - ண வர்க்கம் (ni)"
+  },
+  {
+    "id": "um64",
+    "letter": "ணீ",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "nee",
+    "example": "ணீ - ண வர்க்கம் (nee)"
+  },
+  {
+    "id": "um65",
+    "letter": "ணு",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "nu",
+    "example": "ணு - ண வர்க்கம் (nu)"
+  },
+  {
+    "id": "um66",
+    "letter": "ணூ",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "noo",
+    "example": "ணூ - ண வர்க்கம் (noo)"
+  },
+  {
+    "id": "um67",
+    "letter": "ணெ",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "ne",
+    "example": "ணெ - ண வர்க்கம் (ne)"
+  },
+  {
+    "id": "um68",
+    "letter": "ணே",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "nae",
+    "example": "ணே - ண வர்க்கம் (nae)"
+  },
+  {
+    "id": "um69",
+    "letter": "ணை",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "nai",
+    "example": "ணை - ண வர்க்கம் (nai)"
+  },
+  {
+    "id": "um70",
+    "letter": "ணொ",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "no",
+    "example": "ணொ - ண வர்க்கம் (no)"
+  },
+  {
+    "id": "um71",
+    "letter": "ணோ",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "noo",
+    "example": "ணோ - ண வர்க்கம் (noo)"
+  },
+  {
+    "id": "um72",
+    "letter": "ணௌ",
+    "type": "uyirmei",
+    "series": "ண வர்க்கம்",
+    "baseConsonant": "ண்",
+    "transliteration": "nau",
+    "example": "ணௌ - ண வர்க்கம் (nau)"
+  },
+  {
+    "id": "um73",
+    "letter": "த",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "tha",
+    "example": "த - த வர்க்கம் (tha)"
+  },
+  {
+    "id": "um74",
+    "letter": "தா",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "thaa",
+    "example": "தா - த வர்க்கம் (thaa)"
+  },
+  {
+    "id": "um75",
+    "letter": "தி",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "thi",
+    "example": "தி - த வர்க்கம் (thi)"
+  },
+  {
+    "id": "um76",
+    "letter": "தீ",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "thee",
+    "example": "தீ - த வர்க்கம் (thee)"
+  },
+  {
+    "id": "um77",
+    "letter": "து",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "thu",
+    "example": "து - த வர்க்கம் (thu)"
+  },
+  {
+    "id": "um78",
+    "letter": "தூ",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "thoo",
+    "example": "தூ - த வர்க்கம் (thoo)"
+  },
+  {
+    "id": "um79",
+    "letter": "தெ",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "the",
+    "example": "தெ - த வர்க்கம் (the)"
+  },
+  {
+    "id": "um80",
+    "letter": "தே",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "thae",
+    "example": "தே - த வர்க்கம் (thae)"
+  },
+  {
+    "id": "um81",
+    "letter": "தை",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "thai",
+    "example": "தை - த வர்க்கம் (thai)"
+  },
+  {
+    "id": "um82",
+    "letter": "தொ",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "tho",
+    "example": "தொ - த வர்க்கம் (tho)"
+  },
+  {
+    "id": "um83",
+    "letter": "தோ",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "thoo",
+    "example": "தோ - த வர்க்கம் (thoo)"
+  },
+  {
+    "id": "um84",
+    "letter": "தௌ",
+    "type": "uyirmei",
+    "series": "த வர்க்கம்",
+    "baseConsonant": "த்",
+    "transliteration": "thau",
+    "example": "தௌ - த வர்க்கம் (thau)"
+  },
+  {
+    "id": "um85",
+    "letter": "ந",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "na",
+    "example": "ந - ந வர்க்கம் (na)"
+  },
+  {
+    "id": "um86",
+    "letter": "நா",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "naa",
+    "example": "நா - ந வர்க்கம் (naa)"
+  },
+  {
+    "id": "um87",
+    "letter": "நி",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "ni",
+    "example": "நி - ந வர்க்கம் (ni)"
+  },
+  {
+    "id": "um88",
+    "letter": "நீ",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "nee",
+    "example": "நீ - ந வர்க்கம் (nee)"
+  },
+  {
+    "id": "um89",
+    "letter": "நு",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "nu",
+    "example": "நு - ந வர்க்கம் (nu)"
+  },
+  {
+    "id": "um90",
+    "letter": "நூ",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "noo",
+    "example": "நூ - ந வர்க்கம் (noo)"
+  },
+  {
+    "id": "um91",
+    "letter": "நெ",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "ne",
+    "example": "நெ - ந வர்க்கம் (ne)"
+  },
+  {
+    "id": "um92",
+    "letter": "நே",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "nae",
+    "example": "நே - ந வர்க்கம் (nae)"
+  },
+  {
+    "id": "um93",
+    "letter": "நை",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "nai",
+    "example": "நை - ந வர்க்கம் (nai)"
+  },
+  {
+    "id": "um94",
+    "letter": "நொ",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "no",
+    "example": "நொ - ந வர்க்கம் (no)"
+  },
+  {
+    "id": "um95",
+    "letter": "நோ",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "noo",
+    "example": "நோ - ந வர்க்கம் (noo)"
+  },
+  {
+    "id": "um96",
+    "letter": "நௌ",
+    "type": "uyirmei",
+    "series": "ந வர்க்கம்",
+    "baseConsonant": "ந்",
+    "transliteration": "nau",
+    "example": "நௌ - ந வர்க்கம் (nau)"
+  },
+  {
+    "id": "um97",
+    "letter": "ப",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "pa",
+    "example": "ப - ப வர்க்கம் (pa)"
+  },
+  {
+    "id": "um98",
+    "letter": "பா",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "paa",
+    "example": "பா - ப வர்க்கம் (paa)"
+  },
+  {
+    "id": "um99",
+    "letter": "பி",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "pi",
+    "example": "பி - ப வர்க்கம் (pi)"
+  },
+  {
+    "id": "um100",
+    "letter": "பீ",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "pee",
+    "example": "பீ - ப வர்க்கம் (pee)"
+  },
+  {
+    "id": "um101",
+    "letter": "பு",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "pu",
+    "example": "பு - ப வர்க்கம் (pu)"
+  },
+  {
+    "id": "um102",
+    "letter": "பூ",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "poo",
+    "example": "பூ - ப வர்க்கம் (poo)"
+  },
+  {
+    "id": "um103",
+    "letter": "பெ",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "pe",
+    "example": "பெ - ப வர்க்கம் (pe)"
+  },
+  {
+    "id": "um104",
+    "letter": "பே",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "pae",
+    "example": "பே - ப வர்க்கம் (pae)"
+  },
+  {
+    "id": "um105",
+    "letter": "பை",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "pai",
+    "example": "பை - ப வர்க்கம் (pai)"
+  },
+  {
+    "id": "um106",
+    "letter": "பொ",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "po",
+    "example": "பொ - ப வர்க்கம் (po)"
+  },
+  {
+    "id": "um107",
+    "letter": "போ",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "poo",
+    "example": "போ - ப வர்க்கம் (poo)"
+  },
+  {
+    "id": "um108",
+    "letter": "பௌ",
+    "type": "uyirmei",
+    "series": "ப வர்க்கம்",
+    "baseConsonant": "ப்",
+    "transliteration": "pau",
+    "example": "பௌ - ப வர்க்கம் (pau)"
+  },
+  {
+    "id": "um109",
+    "letter": "ம",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "ma",
+    "example": "ம - ம வர்க்கம் (ma)"
+  },
+  {
+    "id": "um110",
+    "letter": "மா",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "maa",
+    "example": "மா - ம வர்க்கம் (maa)"
+  },
+  {
+    "id": "um111",
+    "letter": "மி",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "mi",
+    "example": "மி - ம வர்க்கம் (mi)"
+  },
+  {
+    "id": "um112",
+    "letter": "மீ",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "mee",
+    "example": "மீ - ம வர்க்கம் (mee)"
+  },
+  {
+    "id": "um113",
+    "letter": "மு",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "mu",
+    "example": "மு - ம வர்க்கம் (mu)"
+  },
+  {
+    "id": "um114",
+    "letter": "மூ",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "moo",
+    "example": "மூ - ம வர்க்கம் (moo)"
+  },
+  {
+    "id": "um115",
+    "letter": "மெ",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "me",
+    "example": "மெ - ம வர்க்கம் (me)"
+  },
+  {
+    "id": "um116",
+    "letter": "மே",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "mae",
+    "example": "மே - ம வர்க்கம் (mae)"
+  },
+  {
+    "id": "um117",
+    "letter": "மை",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "mai",
+    "example": "மை - ம வர்க்கம் (mai)"
+  },
+  {
+    "id": "um118",
+    "letter": "மொ",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "mo",
+    "example": "மொ - ம வர்க்கம் (mo)"
+  },
+  {
+    "id": "um119",
+    "letter": "மோ",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "moo",
+    "example": "மோ - ம வர்க்கம் (moo)"
+  },
+  {
+    "id": "um120",
+    "letter": "மௌ",
+    "type": "uyirmei",
+    "series": "ம வர்க்கம்",
+    "baseConsonant": "ம்",
+    "transliteration": "mau",
+    "example": "மௌ - ம வர்க்கம் (mau)"
+  },
+  {
+    "id": "um121",
+    "letter": "ய",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "ya",
+    "example": "ய - ய வர்க்கம் (ya)"
+  },
+  {
+    "id": "um122",
+    "letter": "யா",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yaa",
+    "example": "யா - ய வர்க்கம் (yaa)"
+  },
+  {
+    "id": "um123",
+    "letter": "யி",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yi",
+    "example": "யி - ய வர்க்கம் (yi)"
+  },
+  {
+    "id": "um124",
+    "letter": "யீ",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yee",
+    "example": "யீ - ய வர்க்கம் (yee)"
+  },
+  {
+    "id": "um125",
+    "letter": "யு",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yu",
+    "example": "யு - ய வர்க்கம் (yu)"
+  },
+  {
+    "id": "um126",
+    "letter": "யூ",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yoo",
+    "example": "யூ - ய வர்க்கம் (yoo)"
+  },
+  {
+    "id": "um127",
+    "letter": "யெ",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "ye",
+    "example": "யெ - ய வர்க்கம் (ye)"
+  },
+  {
+    "id": "um128",
+    "letter": "யே",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yae",
+    "example": "யே - ய வர்க்கம் (yae)"
+  },
+  {
+    "id": "um129",
+    "letter": "யை",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yai",
+    "example": "யை - ய வர்க்கம் (yai)"
+  },
+  {
+    "id": "um130",
+    "letter": "யொ",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yo",
+    "example": "யொ - ய வர்க்கம் (yo)"
+  },
+  {
+    "id": "um131",
+    "letter": "யோ",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yoo",
+    "example": "யோ - ய வர்க்கம் (yoo)"
+  },
+  {
+    "id": "um132",
+    "letter": "யௌ",
+    "type": "uyirmei",
+    "series": "ய வர்க்கம்",
+    "baseConsonant": "ய்",
+    "transliteration": "yau",
+    "example": "யௌ - ய வர்க்கம் (yau)"
+  },
+  {
+    "id": "um133",
+    "letter": "ர",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "ra",
+    "example": "ர - ர வர்க்கம் (ra)"
+  },
+  {
+    "id": "um134",
+    "letter": "ரா",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "raa",
+    "example": "ரா - ர வர்க்கம் (raa)"
+  },
+  {
+    "id": "um135",
+    "letter": "ரி",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "ri",
+    "example": "ரி - ர வர்க்கம் (ri)"
+  },
+  {
+    "id": "um136",
+    "letter": "ரீ",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "ree",
+    "example": "ரீ - ர வர்க்கம் (ree)"
+  },
+  {
+    "id": "um137",
+    "letter": "ரு",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "ru",
+    "example": "ரு - ர வர்க்கம் (ru)"
+  },
+  {
+    "id": "um138",
+    "letter": "ரூ",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "roo",
+    "example": "ரூ - ர வர்க்கம் (roo)"
+  },
+  {
+    "id": "um139",
+    "letter": "ரெ",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "re",
+    "example": "ரெ - ர வர்க்கம் (re)"
+  },
+  {
+    "id": "um140",
+    "letter": "ரே",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "rae",
+    "example": "ரே - ர வர்க்கம் (rae)"
+  },
+  {
+    "id": "um141",
+    "letter": "ரை",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "rai",
+    "example": "ரை - ர வர்க்கம் (rai)"
+  },
+  {
+    "id": "um142",
+    "letter": "ரொ",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "ro",
+    "example": "ரொ - ர வர்க்கம் (ro)"
+  },
+  {
+    "id": "um143",
+    "letter": "ரோ",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "roo",
+    "example": "ரோ - ர வர்க்கம் (roo)"
+  },
+  {
+    "id": "um144",
+    "letter": "ரௌ",
+    "type": "uyirmei",
+    "series": "ர வர்க்கம்",
+    "baseConsonant": "ர்",
+    "transliteration": "rau",
+    "example": "ரௌ - ர வர்க்கம் (rau)"
+  },
+  {
+    "id": "um145",
+    "letter": "ல",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "la",
+    "example": "ல - ல வர்க்கம் (la)"
+  },
+  {
+    "id": "um146",
+    "letter": "லா",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "laa",
+    "example": "லா - ல வர்க்கம் (laa)"
+  },
+  {
+    "id": "um147",
+    "letter": "லி",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "li",
+    "example": "லி - ல வர்க்கம் (li)"
+  },
+  {
+    "id": "um148",
+    "letter": "லீ",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "lee",
+    "example": "லீ - ல வர்க்கம் (lee)"
+  },
+  {
+    "id": "um149",
+    "letter": "லு",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "lu",
+    "example": "லு - ல வர்க்கம் (lu)"
+  },
+  {
+    "id": "um150",
+    "letter": "லூ",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "loo",
+    "example": "லூ - ல வர்க்கம் (loo)"
+  },
+  {
+    "id": "um151",
+    "letter": "லெ",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "le",
+    "example": "லெ - ல வர்க்கம் (le)"
+  },
+  {
+    "id": "um152",
+    "letter": "லே",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "lae",
+    "example": "லே - ல வர்க்கம் (lae)"
+  },
+  {
+    "id": "um153",
+    "letter": "லை",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "lai",
+    "example": "லை - ல வர்க்கம் (lai)"
+  },
+  {
+    "id": "um154",
+    "letter": "லொ",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "lo",
+    "example": "லொ - ல வர்க்கம் (lo)"
+  },
+  {
+    "id": "um155",
+    "letter": "லோ",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "loo",
+    "example": "லோ - ல வர்க்கம் (loo)"
+  },
+  {
+    "id": "um156",
+    "letter": "லௌ",
+    "type": "uyirmei",
+    "series": "ல வர்க்கம்",
+    "baseConsonant": "ல்",
+    "transliteration": "lau",
+    "example": "லௌ - ல வர்க்கம் (lau)"
+  },
+  {
+    "id": "um157",
+    "letter": "வ",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "va",
+    "example": "வ - வ வர்க்கம் (va)"
+  },
+  {
+    "id": "um158",
+    "letter": "வா",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "vaa",
+    "example": "வா - வ வர்க்கம் (vaa)"
+  },
+  {
+    "id": "um159",
+    "letter": "வி",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "vi",
+    "example": "வி - வ வர்க்கம் (vi)"
+  },
+  {
+    "id": "um160",
+    "letter": "வீ",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "vee",
+    "example": "வீ - வ வர்க்கம் (vee)"
+  },
+  {
+    "id": "um161",
+    "letter": "வு",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "vu",
+    "example": "வு - வ வர்க்கம் (vu)"
+  },
+  {
+    "id": "um162",
+    "letter": "வூ",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "voo",
+    "example": "வூ - வ வர்க்கம் (voo)"
+  },
+  {
+    "id": "um163",
+    "letter": "வெ",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "ve",
+    "example": "வெ - வ வர்க்கம் (ve)"
+  },
+  {
+    "id": "um164",
+    "letter": "வே",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "vae",
+    "example": "வே - வ வர்க்கம் (vae)"
+  },
+  {
+    "id": "um165",
+    "letter": "வை",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "vai",
+    "example": "வை - வ வர்க்கம் (vai)"
+  },
+  {
+    "id": "um166",
+    "letter": "வொ",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "vo",
+    "example": "வொ - வ வர்க்கம் (vo)"
+  },
+  {
+    "id": "um167",
+    "letter": "வோ",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "voo",
+    "example": "வோ - வ வர்க்கம் (voo)"
+  },
+  {
+    "id": "um168",
+    "letter": "வௌ",
+    "type": "uyirmei",
+    "series": "வ வர்க்கம்",
+    "baseConsonant": "வ்",
+    "transliteration": "vau",
+    "example": "வௌ - வ வர்க்கம் (vau)"
+  },
+  {
+    "id": "um169",
+    "letter": "ழ",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhaa",
+    "example": "ழ - ழ வர்க்கம் (zhaa)"
+  },
+  {
+    "id": "um170",
+    "letter": "ழா",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhaaa",
+    "example": "ழா - ழ வர்க்கம் (zhaaa)"
+  },
+  {
+    "id": "um171",
+    "letter": "ழி",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhai",
+    "example": "ழி - ழ வர்க்கம் (zhai)"
+  },
+  {
+    "id": "um172",
+    "letter": "ழீ",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhaee",
+    "example": "ழீ - ழ வர்க்கம் (zhaee)"
+  },
+  {
+    "id": "um173",
+    "letter": "ழு",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhau",
+    "example": "ழு - ழ வர்க்கம் (zhau)"
+  },
+  {
+    "id": "um174",
+    "letter": "ழூ",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhaoo",
+    "example": "ழூ - ழ வர்க்கம் (zhaoo)"
+  },
+  {
+    "id": "um175",
+    "letter": "ழெ",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhae",
+    "example": "ழெ - ழ வர்க்கம் (zhae)"
+  },
+  {
+    "id": "um176",
+    "letter": "ழே",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhaae",
+    "example": "ழே - ழ வர்க்கம் (zhaae)"
+  },
+  {
+    "id": "um177",
+    "letter": "ழை",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhaai",
+    "example": "ழை - ழ வர்க்கம் (zhaai)"
+  },
+  {
+    "id": "um178",
+    "letter": "ழொ",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhao",
+    "example": "ழொ - ழ வர்க்கம் (zhao)"
+  },
+  {
+    "id": "um179",
+    "letter": "ழோ",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhaoo",
+    "example": "ழோ - ழ வர்க்கம் (zhaoo)"
+  },
+  {
+    "id": "um180",
+    "letter": "ழௌ",
+    "type": "uyirmei",
+    "series": "ழ வர்க்கம்",
+    "baseConsonant": "ழ்",
+    "transliteration": "zhaau",
+    "example": "ழௌ - ழ வர்க்கம் (zhaau)"
+  },
+  {
+    "id": "um181",
+    "letter": "ள",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lha",
+    "example": "ள - ள வர்க்கம் (lha)"
+  },
+  {
+    "id": "um182",
+    "letter": "ளா",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhaa",
+    "example": "ளா - ள வர்க்கம் (lhaa)"
+  },
+  {
+    "id": "um183",
+    "letter": "ளி",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhi",
+    "example": "ளி - ள வர்க்கம் (lhi)"
+  },
+  {
+    "id": "um184",
+    "letter": "ளீ",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhee",
+    "example": "ளீ - ள வர்க்கம் (lhee)"
+  },
+  {
+    "id": "um185",
+    "letter": "ளு",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhu",
+    "example": "ளு - ள வர்க்கம் (lhu)"
+  },
+  {
+    "id": "um186",
+    "letter": "ளூ",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhoo",
+    "example": "ளூ - ள வர்க்கம் (lhoo)"
+  },
+  {
+    "id": "um187",
+    "letter": "ளெ",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhe",
+    "example": "ளெ - ள வர்க்கம் (lhe)"
+  },
+  {
+    "id": "um188",
+    "letter": "ளே",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhae",
+    "example": "ளே - ள வர்க்கம் (lhae)"
+  },
+  {
+    "id": "um189",
+    "letter": "ளை",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhai",
+    "example": "ளை - ள வர்க்கம் (lhai)"
+  },
+  {
+    "id": "um190",
+    "letter": "ளொ",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lho",
+    "example": "ளொ - ள வர்க்கம் (lho)"
+  },
+  {
+    "id": "um191",
+    "letter": "ளோ",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhoo",
+    "example": "ளோ - ள வர்க்கம் (lhoo)"
+  },
+  {
+    "id": "um192",
+    "letter": "ளௌ",
+    "type": "uyirmei",
+    "series": "ள வர்க்கம்",
+    "baseConsonant": "ள்",
+    "transliteration": "lhau",
+    "example": "ளௌ - ள வர்க்கம் (lhau)"
+  },
+  {
+    "id": "um193",
+    "letter": "ற",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rra",
+    "example": "ற - ற வர்க்கம் (rra)"
+  },
+  {
+    "id": "um194",
+    "letter": "றா",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rraa",
+    "example": "றா - ற வர்க்கம் (rraa)"
+  },
+  {
+    "id": "um195",
+    "letter": "றி",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rri",
+    "example": "றி - ற வர்க்கம் (rri)"
+  },
+  {
+    "id": "um196",
+    "letter": "றீ",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rree",
+    "example": "றீ - ற வர்க்கம் (rree)"
+  },
+  {
+    "id": "um197",
+    "letter": "று",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rru",
+    "example": "று - ற வர்க்கம் (rru)"
+  },
+  {
+    "id": "um198",
+    "letter": "றூ",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rroo",
+    "example": "றூ - ற வர்க்கம் (rroo)"
+  },
+  {
+    "id": "um199",
+    "letter": "றெ",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rre",
+    "example": "றெ - ற வர்க்கம் (rre)"
+  },
+  {
+    "id": "um200",
+    "letter": "றே",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rrae",
+    "example": "றே - ற வர்க்கம் (rrae)"
+  },
+  {
+    "id": "um201",
+    "letter": "றை",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rrai",
+    "example": "றை - ற வர்க்கம் (rrai)"
+  },
+  {
+    "id": "um202",
+    "letter": "றொ",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rro",
+    "example": "றொ - ற வர்க்கம் (rro)"
+  },
+  {
+    "id": "um203",
+    "letter": "றோ",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rroo",
+    "example": "றோ - ற வர்க்கம் (rroo)"
+  },
+  {
+    "id": "um204",
+    "letter": "றௌ",
+    "type": "uyirmei",
+    "series": "ற வர்க்கம்",
+    "baseConsonant": "ற்",
+    "transliteration": "rrau",
+    "example": "றௌ - ற வர்க்கம் (rrau)"
+  },
+  {
+    "id": "um205",
+    "letter": "ன",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nna",
+    "example": "ன - ன வர்க்கம் (nna)"
+  },
+  {
+    "id": "um206",
+    "letter": "னா",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nnaa",
+    "example": "னா - ன வர்க்கம் (nnaa)"
+  },
+  {
+    "id": "um207",
+    "letter": "னி",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nni",
+    "example": "னி - ன வர்க்கம் (nni)"
+  },
+  {
+    "id": "um208",
+    "letter": "னீ",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nnee",
+    "example": "னீ - ன வர்க்கம் (nnee)"
+  },
+  {
+    "id": "um209",
+    "letter": "னு",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nnu",
+    "example": "னு - ன வர்க்கம் (nnu)"
+  },
+  {
+    "id": "um210",
+    "letter": "னூ",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nnoo",
+    "example": "னூ - ன வர்க்கம் (nnoo)"
+  },
+  {
+    "id": "um211",
+    "letter": "னெ",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nne",
+    "example": "னெ - ன வர்க்கம் (nne)"
+  },
+  {
+    "id": "um212",
+    "letter": "னே",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nnae",
+    "example": "னே - ன வர்க்கம் (nnae)"
+  },
+  {
+    "id": "um213",
+    "letter": "னை",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nnai",
+    "example": "னை - ன வர்க்கம் (nnai)"
+  },
+  {
+    "id": "um214",
+    "letter": "னொ",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nno",
+    "example": "னொ - ன வர்க்கம் (nno)"
+  },
+  {
+    "id": "um215",
+    "letter": "னோ",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nnoo",
+    "example": "னோ - ன வர்க்கம் (nnoo)"
+  },
+  {
+    "id": "um216",
+    "letter": "னௌ",
+    "type": "uyirmei",
+    "series": "ன வர்க்கம்",
+    "baseConsonant": "ன்",
+    "transliteration": "nnau",
+    "example": "னௌ - ன வர்க்கம் (nnau)"
+  }
+]
