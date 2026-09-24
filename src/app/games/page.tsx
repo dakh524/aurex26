@@ -2,11 +2,22 @@
 
 import React from 'react';
 import GameCard from '@/components/games/GameCard';
-import { Landmark, SpellCheck, Dna, Sparkles, Award, Trophy, ShieldAlert } from 'lucide-react';
+import { Landmark, SpellCheck, Dna, Sparkles, Award, Trophy, ShieldAlert, BookOpen } from 'lucide-react';
 import Link from 'next/link';
 
 export default function GamesHubPage() {
   const gamesList = [
+    {
+      id: 'kural-hunt',
+      title: '📖 குறளை கண்டுபிடி',
+      subtitle: 'Thirukkural Word Hunt Challenge',
+      description: 'திருக்குறளின் விடுபட்ட சொற்களைக் கண்டறிந்து திருக்குறளை முழுமையாக்கும் 5 நிலைகள் கொண்ட பாரம்பரிய விளையாட்டு.',
+      icon: BookOpen,
+      difficulty: '5 நிலைகள்',
+      roundsText: '5 நிலைகள் • ஒலி வடிவம்',
+      href: '/games/kural-hunt',
+      badgeText: 'திருக்குறள் விளையாட்டு',
+    },
     {
       id: 'era-challenge',
       title: '🏺 எந்த காலம்?',

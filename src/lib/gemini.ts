@@ -70,7 +70,7 @@ export async function callGeminiWithFallback(
 
   let lastErrorMessage = '';
 
-  const modelsToTry = ['gemini-1.5-flash', 'gemini-1.5-pro', 'gemini-2.0-flash-exp'];
+  const modelsToTry = ['gemini-3.6-flash', 'gemini-3.5-flash-lite', 'gemini-2.5-flash', 'gemini-1.5-flash'];
 
   // 2. Loop through keys & models in order
   for (let i = 0; i < keysList.length; i++) {
